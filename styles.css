@@ -26,6 +26,8 @@ p {
     height: 150px;
     border-radius: 50%;
     overflow: hidden;
+    max-width: max-content;
+    min-width: min-content;
 }
 
 .avatar img {
