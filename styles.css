@@ -25,7 +25,7 @@ p {
 }
   .avatar {
     border: solid 1px #21242A;
-    border-radius: 5;
+    border-radius: 5%;
     margin-top:20px;
     width: 150px;
     height: 200px;
