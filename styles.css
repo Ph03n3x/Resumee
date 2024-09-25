@@ -8,14 +8,14 @@
     /* Purple */
     --info-color: #7D82B8;
     /* Cream */
-    --main-detail-color: #F7C59F;
+    --main-detail-color: #f1da8e;
   }
   
   html,
   body {
     font-family:"Fira Code", monospace;
     text-align: justify;
-    background-color: #e4c7b4;
+    background-color: #e4d5b4;
   }
   h4 {
 text-align: center;
