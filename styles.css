@@ -60,7 +60,7 @@ p {
   }
   
   .dev-tags-block > kbd {
-    margin-top:10px;
+    margin-top:5px;
   }
   
   .contact {
@@ -82,6 +82,7 @@ p {
   .name {
     margin-top:10px;
     margin-bottom:10px;
+    color: #21242A;
   }
 
   .flex-container {
