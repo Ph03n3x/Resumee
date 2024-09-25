@@ -1,21 +1,11 @@
-:root {
-    /* Colors */
-    --main-bg-color: #21242A;
-    /* Red */
-    --alert-color: #C33C54;
-    /* Yellow */
-    --warn-color: #E9B44C;
-    /* Purple */
-    --info-color: #7D82B8;
-    /* Cream */
-    --main-detail-color: #f1da8e;
-  }
+
   
   html,
   body {
     font-family:"Fira Code", monospace;
     text-align: justify;
     background-color: #e4d5b4;
+    color: #21242A;
   }
   h4 {
 text-align: center;
