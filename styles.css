@@ -32,7 +32,7 @@ p {
   .avatar img {
     width: 150px;
     height: 200px;
-    object-fit: fill;
+    object-fit:cover;
    
 }
   
